@@ -1,4 +1,4 @@
-# SQL_Project_Music_Store_Analysis
+# Music Store Analysis using SQL 
 Data Analysis for Digital Music Store using SQL
 In this project we solved following queries asked by the customer,such as:
 - Who is the senior most employee based on job title? 
